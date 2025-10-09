@@ -4,7 +4,7 @@ Estoy registrando mi progreso en Data Engineering, Cloud y herramientas de anal�
 No es un blog, solo un resumen personal de avance.  
 
 
-🇧🇷📓 Repositório-diário: aprendizados reais, erros sinceros e curiosidade constante
+📓 Repositório-diário: aprendizados reais, erros sinceros e curiosidade constante
 
 📫 Estoy en twitter @britneyscripts  
 🔭 Actualmente Product Manager
