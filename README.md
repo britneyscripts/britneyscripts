@@ -17,7 +17,7 @@ Finalizando...
 
 En progreso...
 
-- IBM Data Engineering – SQL
+- IBM Data Engineering – SQL  
 🔄 Oct-2025 | Introduction to Data Engineering  
 🔄 Oct-2025 | Databases and SQL for Data Science with Python  
 🔄 Oct-2025 | Introduction to Relational Databases (RDBMS)     
