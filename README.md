@@ -17,19 +17,21 @@ Finalizando...
 
 En progreso...
 
-IBM Data Engineering – SQL | 🔄 En curso  
-dbt Fundamentals | 🔄 En curso  
-AWS Cloud Practitioner | 🕓 En progreso  
-Snowflake | ✍️ Próximo  
+- IBM Data Engineering – SQL
+🔄 Oct-2025 | Introduction to Data Engineering  
+🔄 Oct-2025 | Databases and SQL for Data Science with Python  
+🔄 Oct-2025 | Introduction to Relational Databases (RDBMS)     
+- dbt Fundamentals  
+- AWS Cloud Practitioner  
+
+✍️ Próximos...
+
+- Snowflake
 
 Calendario de Progreso:
 
-IBM Data Engineering  
-🔄 Introduction to Data Engineering  
-🔄 Databases and SQL for Data Science with Python  
-🔄 Introduction to Relational Databases (RDBMS)  
+En construcción
 
-y faltan 13 cursos más para iniciar (y finalizar)  
 
 
 
