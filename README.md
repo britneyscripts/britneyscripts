@@ -1,41 +1,32 @@
 🚀 Aprendizaje 2025-2026
 
 Estoy registrando mi progreso en Data Engineering, Cloud y herramientas de analítica.  
-
 No es un blog, solo un resumen personal de avance.  
 
 
 🇧🇷📓 Repositório-diário: aprendizados reais, erros sinceros e curiosidade constante
 
 📫 Estoy en twitter @britneyscripts
-
 🔭 Actualmente Product Manager
 
 Finalizando...
 
 🌱 Posgrado de Ingenieria de Sofware - UTFPR (Brasil)  
-
 🌱 Posgrado de análisis de Datos - ESPM (Brasil)  
 
 
 En progreso...
 
 IBM Data Engineering – SQL | 🔄 En curso  
-
 dbt Fundamentals | 🔄 En curso  
-
 AWS Cloud Practitioner | 🕓 En progreso  
-
 Snowflake | ✍️ Próximo  
 
 Calendario de Progreso:
 
 IBM Data Engineering  
-
 🔄 Introduction to Data Engineering  
-
 🔄 Databases and SQL for Data Science with Python  
-
 🔄 Introduction to Relational Databases (RDBMS)  
 
 y faltan 13 cursos más para iniciar (y finalizar)  
