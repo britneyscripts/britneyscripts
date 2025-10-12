@@ -7,6 +7,8 @@ No es un blog, solo un resumen personal de avance.
 📓 Repositório-diário: aprendizados reais, erros sinceros e curiosidade constante
 
 📫 Estoy en twitter @britneyscripts  
+👩‍💻 Estoy en dev.to https://dev.to/britneyscripts  
+
 🔭 Actualmente Product Manager
 
 Finalizando...
