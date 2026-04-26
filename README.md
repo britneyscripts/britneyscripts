@@ -9,8 +9,9 @@
 ### 💻 My stack
 `Python` · `FastAPI` · `GCP (Cloud Run + Firebase)` · `BigQuery` · `CrUX API` · `Schema.org` · `spaCy` · `SQL` · `Core Web Vitals`
 
-### ✍️ What I write about
-**Agentic Commerce** · **Technical PM** · **E-commerce Infrastructure**
+### 🔗 Connect & Read
 * **Substack:** [@britneyscripts](https://britneyscripts.substack.com)
+* **Twitter/X:** [@alffabetta](https://twitter.com/alffabetta)
+* **LinkedIn:** [Eva Bettina Acosta de Paula](https://www.linkedin.com/in/eva-de-paula/)
 
 > *"Verifiable data beats marketing gloss — for humans and AI agents alike."*
