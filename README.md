@@ -11,7 +11,7 @@
 
 ### 🔗 Connect & Read
 * **Substack:** [@britneyscripts](https://britneyscripts.substack.com)
-* **Twitter/X:** [@alffabetta](https://twitter.com/alffabetta)
-* **LinkedIn:** [Eva Bettina Acosta de Paula](https://www.linkedin.com/in/eva-de-paula/)
+* **Twitter/X:** [@britneyscripts](https://x.com/britneyscripts)
+* **LinkedIn:** [Bettina Acosta de Paula](https://www.linkedin.com/in/bettina-acosta-de-paula/)
 
 > *"Verifiable data beats marketing gloss — for humans and AI agents alike."*
