@@ -1,13 +1,18 @@
-# 👋 Hi, I'm Eva!
+# 👋 Hi, I'm Bettina!
 
-**Product Manager** with 8+ years leading digital products and e-commerce across Latin America — operating at **Staff level**. Based in Porto Alegre, Brazil (back home after 15 years in Uruguay).
+**Senior Technical Product Manager & Data Architect** with 8+ years leading digital products and e-commerce infrastructure across Latin America. I operate at a Staff-level, bridging the gap between product strategy and heavy technical execution without depending on BI intermediation. 
 
-### 🏗️ What I'm building
-* **`ghostprod`** — an open-source, multi-agent pipeline measuring the *Agent-Readiness Score* for e-commerce PDPs. (Data Science MBA thesis @ ICMC/USP)
-* **Researching Agentic Commerce:** how AI agents discover, read, and recommend products.
+Currently based in Porto Alegre, Brazil.
 
-### 💻 My stack
-`Python` · `FastAPI` · `GCP (Cloud Run + Firebase)` · `BigQuery` · `CrUX API` · `Schema.org` · `spaCy` · `SQL` · `Core Web Vitals`
+## 🏗️ What I'm building
+
+*   🕵️‍♀️ **[Sleuth Data](https://github.com/britneyscripts/sleuthdata):** A query-driven, config-based job aggregator and automated data pipeline (Python, PostgreSQL, FastAPI). It bypasses manual ATS applications and uses Google Gemini to enrich job data with market intelligence (Glassdoor ratings, layoff signals).
+*   👻 **[Ghostprod](https://github.com/britneyscripts/ghostprod):** An open-source, multi-agent pipeline measuring the Semantic Invisibility of e-commerce PDPs. Researching *Agentic Commerce*: how AI agents discover, read, and recommend products. (Data Science MBA thesis @ ICMC/USP).
+
+## 💻 My Stack
+*   **Data & AI:** Python, SQL, dbt (ELT workflows), BigQuery, PostgreSQL, SQLite, Google Gemini AI SDK, spaCy.
+*   **Infrastructure:** GCP (Cloud Run, Firebase), Docker, FastAPI.
+*   **Product & E-commerce:** CrUX API, Schema.org, Technical SEO, Adobe Commerce (Magento), VTEX.
 
 ### 🔗 Connect & Read
 * **Substack:** [@britneyscripts](https://britneyscripts.substack.com)
