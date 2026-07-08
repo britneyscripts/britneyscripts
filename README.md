@@ -1,12 +1,9 @@
 # 👋 Hi, I'm Bettina!
 
-**Senior Technical Product Manager & Data Architect** with 8+ years leading digital products and e-commerce infrastructure across Latin America. I operate at a Staff-level, bridging the gap between product strategy and heavy technical execution without depending on BI intermediation. 
-
-Currently based in Porto Alegre, Brazil.
+**Senior Technical Product Manager ** with 8+ years leading digital products and e-commerce infrastructure across Latin America. I operate at a Staff-level, bridging the gap between product strategy and heavy technical execution without depending on BI intermediation. 
 
 ## 🏗️ What I'm building
 
-*   🕵️‍♀️ **[Sleuth Data](https://github.com/britneyscripts/sleuthdata):** A query-driven, config-based job aggregator and automated data pipeline (Python, PostgreSQL, FastAPI). It bypasses manual ATS applications and uses Google Gemini to enrich job data with market intelligence (Glassdoor ratings, layoff signals).
 *   👻 **[Ghostprod](https://github.com/britneyscripts/ghostprod):** An open-source, multi-agent pipeline measuring the Semantic Invisibility of e-commerce PDPs. Researching *Agentic Commerce*: how AI agents discover, read, and recommend products. (Data Science MBA thesis @ ICMC/USP).
 
 ## 💻 My Stack
