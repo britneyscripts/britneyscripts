@@ -27,13 +27,10 @@ I keep the failures visible too. Sleuthdata taught me two classic pipeline lesso
 🔗 Connect & Read
 
 
-Substack: @britneyscripts
-Twitter/X: @britneyscripts
-LinkedIn: Bettina Acosta de Paula
+[Substack]: @britneyscripts (https://substack.com/@evadepaula)
+[Twitter/X]: @britneyscripts (https://x.com/britneyscripts)
+[LinkedIn]: ([Bettina Acosta de Paula](https://www.linkedin.com/in/bettina-acosta-de-paula/))
 
 
 
 "Verifiable data beats marketing gloss — for humans and AI agents alike."
-
-
-"Verifiable data beats marketing gloss - for humans and AI agents alike."
