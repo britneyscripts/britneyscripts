@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bettina!
 
-**Senior Technical Product Manager ** with 8+ years leading digital products and e-commerce infrastructure across Latin America. I operate at a Staff-level, bridging the gap between product strategy and heavy technical execution without depending on BI intermediation. 
+Senior Technical Product Manager with 8+ years leading digital products and e-commerce infrastructure across Latin America. I operate at a Staff-level, bridging the gap between product strategy and heavy technical execution. 
 
 ## 🏗️ What I'm building
 
