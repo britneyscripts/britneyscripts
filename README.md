@@ -9,7 +9,7 @@ I didn't start in product. I didn't even start with a desk. In 2005 I was a came
 🏗️ What I'm building
 
 
-👻 Ghostprod: An open-source, multi-agent pipeline measuring the Semantic Invisibility of e-commerce PDPs. Researching Agentic Commerce: how AI agents discover, read, and recommend products. (Data Science MBA thesis @ ICMC/USP).
+👻 [**Ghostprod:**](https://github.com/britneyscripts/ghostprod) An open-source, multi-agent pipeline measuring the Semantic Invisibility of e-commerce PDPs. Researching Agentic Commerce: how AI agents discover, read, and recommend products. (Data Science MBA thesis @ ICMC/USP).
 
 
 💻 My Stack
@@ -26,11 +26,9 @@ I keep the failures visible too. Sleuthdata taught me two classic pipeline lesso
 
 🔗 Connect & Read
 
-
-[Substack]: @britneyscripts (https://substack.com/@evadepaula)
-[Twitter/X]: @britneyscripts (https://x.com/britneyscripts)
-[LinkedIn]: ([Bettina Acosta de Paula](https://www.linkedin.com/in/bettina-acosta-de-paula/))
-
+- **Substack:** [@evadepaula](https://substack.com/@evadepaula)
+- **Twitter/X:** [@britneyscripts](https://x.com/britneyscripts)
+- **LinkedIn:** [Bettina Acosta de Paula](https://www.linkedin.com/in/bettina-acosta-de-paula/)
 
 
 "Verifiable data beats marketing gloss — for humans and AI agents alike."
