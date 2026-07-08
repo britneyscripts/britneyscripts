@@ -10,7 +10,7 @@
 
 I didn't start in product. I didn't even start with a desk. In 2005, I was a *camelô* (an informal street vendor in Brazil), selling to get by. 
 
-From the streets, I moved into client operations, then e-commerce and technical SEO for hostel and retail brands, before leading a B2B platform rollout across 12 LatAm countries. Somewhere along the way, I stopped just writing specs and started directing the build myself—briefing AI coding agents, testing as I go, and owning the architectural decisions (Python, SQL, GCP, Docker). 
+From the streets, I moved into client operations, then e-commerce and technical SEO for hostel and retail brands, before leading a B2B platform rollout across 12 LatAm countries. Somewhere along the way, I stopped just writing specs and started directing the build mysel: briefing AI coding agents, testing as I go, and owning the architectural decisions (Python, SQL, GCP, Docker). 
 
 I don't ship what I haven't verified myself; that's the PM training talking, not the engineering. In 2026, after 15 years in Uruguay, I moved back to Brazil and used the transition to go back to school, joining the **Data Science MBA at USP** to turn a long-standing curiosity about how machines read the web into a formal research project.
 
