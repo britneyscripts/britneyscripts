@@ -1,10 +1,10 @@
 👋 Hi, I'm Bettina!
 
-Senior Technical Product Manager with 8+ years leading digital products and e-commerce infrastructure across Latin America — now researching how AI agents read, interpret, and recommend products.
+Senior Technical Product Manager with 8+ years leading digital products and e-commerce infrastructure across Latin America and now researching how AI agents read, interpret, and recommend products.
 
 🧭 The path here
 
-I didn't start in product. I didn't even start with a desk. In 2005 I was a camelô, an informal street vendor (as we call it in Brazil), selling to get by. From there I moved into client operations, then e-commerce and technical SEO for hostel and retail brands, then leading a B2B platform rollout across 12 LatAm countries — before landing at Staff-level as a Technical PM. Somewhere along the way I started building things myself instead of just writing specs for them - Python, SQL, GCP, Docker — which mostly means I've learned as much from my own bugs as from any course. In 2026, after 15 years in Uruguay, I moved back to Brazil and used the transition to go back to school, a Data Science MBA at USP, turning a long-standing curiosity about how machines read the web into a formal research project.
+I didn't start in product. I didn't even start with a desk. In 2005 I was a camelô, an informal street vendor (as we call it in Brazil), selling to get by. From there I moved into client operations, then e-commerce and technical SEO for hostel and retail brands, then leading a B2B platform rollout across 12 LatAm countries - before landing at Staff-level as a Technical PM. Somewhere along the way I started building things myself instead of just writing specs for them, Python, SQL, GCP, Docker, which mostly means I've learned as much from my own bugs as from any course. In 2026, after 15 years in Uruguay, I moved back to Brazil and used the transition to go back to school, a Data Science MBA at USP, turning a long-standing curiosity about how machines read the web into a formal research project.
 
 🏗️ What I'm building
 
